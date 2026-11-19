@@ -27,7 +27,7 @@ const boardData = [
   { id: 13, name: "大塊雞排", icon: "🍗", type: "restaurant", side: "top", color: "#ef4444", grid: "1 / 2", owner: null },
   { id: 14, name: "黑殿排骨飯", icon: "🍛", type: "restaurant", side: "top", color: "#ef4444", grid: "1 / 3", owner: null },
   { id: 15, name: "文化阿給", icon: "🥡", type: "restaurant", side: "top", color: "#eab308", grid: "1 / 4", owner: null },
-  { id: 16, name: "金雞母甜不辣", icon: "🍢", type: "restaurant", side: "top", color: "#eab308", grid: "1 / 5", owner: null },
+  { id: 16, name: "麻辣的誘惑", icon: "🍜", type: "restaurant", side: "top", color: "#eab308", grid: "1 / 5", owner: null },
   { id: 17, name: "原味豆花", icon: "🍧", type: "restaurant", side: "top", color: "#eab308", grid: "1 / 6", owner: null },
 
   // 右上角落
@@ -36,9 +36,9 @@ const boardData = [
   // 右排（由上往下）：綠色組 & 深藍高級地段組（補齊淡江周邊美食）
   { id: 19, name: "極鮮火鍋", icon: "🫕", type: "restaurant", side: "right", color: "#10b981", grid: "2 / 7", owner: null },
   { id: 20, name: "淡江滷味王", icon: "🥘", type: "restaurant", side: "right", color: "#10b981", grid: "3 / 7", owner: null },
-  { id: 21, name: "北新路咖哩", icon: "🍛", type: "restaurant", side: "right", color: "#1d4ed8", grid: "4 / 7", owner: null },
-  { id: 22, name: "宮燈大道咖啡", icon: "☕", type: "restaurant", side: "right", color: "#1d4ed8", grid: "5 / 7", owner: null },
-  { id: 23, name: "淡水老街魚丸", icon: "🥣", type: "restaurant", side: "right", color: "#1d4ed8", grid: "6 / 7", owner: null }
+  { id: 21, name: "好糧健康餐", icon: "🍛", type: "restaurant", side: "right", color: "#1d4ed8", grid: "4 / 7", owner: null },
+  { id: 22, name: "川味串香", icon: "🍜", type: "restaurant", side: "right", color: "#1d4ed8", grid: "5 / 7", owner: null },
+  { id: 23, name: "金亨殿韓式料理", icon: "🥣", type: "restaurant", side: "right", color: "#1d4ed8", grid: "6 / 7", owner: null }
 ];
 
 // ==========================================
